@@ -4,13 +4,13 @@
   class Developer {
     constructor() {
       this.name = "Ismail Mansour";
-      this.age = 17;
+      this.age = 18;
       this.isCoding = true;
     }
   }
 ```
 
-- 🔭 I’m currently looking for work
+- 🔭 I’m currently not looking for work
 - 🌱 I’m currently learning backend development and AI/ML using python
 - 👯 I’m looking to collaborate on whatever you need help with!
 - 💬 Ask me about anything web related
